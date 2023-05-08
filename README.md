@@ -1,6 +1,3 @@
-# Cryptography
-A collection of scripts thats been used in University and for other occasions.
-
 # Cryptography Scripts
 
 This repository contains various cryptography scripts implemented in Python, C++, and C#. The following sections provide brief descriptions of each script and the required libraries.
