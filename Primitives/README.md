@@ -39,3 +39,5 @@ print("Differential Uniformity of the S-box:", differential_uniformity(s_box))
 ```
 
 To compute the differential uniformity of your S-box, replace the toy s_box function with your desired function.
+
+This is taught in [INF143A](https://www.uib.no/en/course/INF143A) and [INF240A](https://www.uib.no/en/course/INF240A) at University of Bergen(UIB). 
